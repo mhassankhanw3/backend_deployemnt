@@ -1,0 +1,19 @@
+{
+  "name": "first_class_deployment",
+  "version": "1.0.0",
+  "description": "first class 1st backend code to deploy on production mode.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hassan Khan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
