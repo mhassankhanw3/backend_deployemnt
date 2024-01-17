@@ -2,10 +2,10 @@
   "name": "first_class_deployment",
   "version": "1.0.0",
   "description": "first class 1st backend code to deploy on production mode.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "keywords": [
     "node"
